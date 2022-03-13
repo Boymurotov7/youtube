@@ -1,7 +1,6 @@
 {
   "name": "youtube",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
@@ -21,5 +20,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boymurotov7/youtube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Boymurotov7/youtube/issues"
+  },
+  "homepage": "https://github.com/Boymurotov7/youtube#readme",
+  "description": ""
 }

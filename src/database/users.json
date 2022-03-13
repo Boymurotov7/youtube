@@ -1,0 +1,30 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "profileImg": "/images/man.jpg",
+        "password": "7b6abdbaa0a25b2456235e6edd1494a56554e9a523f6b9049ac9311ce0668e7b",
+        "userCreatedAt": "2022-01-07T14:12:49.010Z"
+    },
+    {
+        "userId": 2,
+        "username": "nosir",
+        "profileImg": "/images/young-man.jpg",
+        "password": "ba09b04e1961c21ce28ed8e8dc51007f66f4f2a36b13257420d3e9ff3637d7a8",
+        "userCreatedAt": "2022-01-07T14:12:49.010Z"
+    },
+    {
+        "userId": 3,
+        "username": "alisher",
+        "profileImg": "/images/1641829169214pexels-igor-haritanovich-1695050.jpg",
+        "password": "4ab42820dd0cf224b75599e032092fd567d6f6170a9241cbdccd8ae3bc725898",
+        "userCreatedAt": "Mon Jan 10 2022 20:39:29 GMT+0500 (Uzbekistan Standard Time)"
+    },
+    {
+        "userId": 4,
+        "username": "halil",
+        "profileImg": "/images/1641829230439pexels-igor-haritanovich-1695050.jpg",
+        "password": "4ab42820dd0cf224b75599e032092fd567d6f6170a9241cbdccd8ae3bc725898",
+        "userCreatedAt": "Mon Jan 10 2022 20:40:30 GMT+0500 (Uzbekistan Standard Time)"
+    }
+]
